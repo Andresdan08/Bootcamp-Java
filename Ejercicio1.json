@@ -1,0 +1,31 @@
+{
+    "Academia": [
+     {
+       "Nombre": "NEXT LANG",
+       "Dirección": "Calle Principal 123, de la ciudad de Villa Carlos Paz"
+       },
+      {
+        "Cursos": [  
+          {
+            "Nombre": "INGLES BÁSICO",
+            "Duración": "4 Semanas",
+            "Costo": "100 dolares"
+          },
+          {
+            "Nombre": "INGLES AVANZADO",
+            "Duración": "20 Semanas",
+            "Costo": "400 dolares"
+          },
+          {
+            "Nombre": "ITALIANO BÁSICO",
+            "Duración": "5 Semanas",
+            "Costo": "120 dolares"
+          },
+          {
+            "Contacto": "156734756",
+            "Contacto2": "154456234"
+          }
+        ]
+      }
+    ]
+   }
