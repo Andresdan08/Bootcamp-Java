@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Coches",
+    "description": "Preguntas relacionadas con automoviles, marcas de coches y tipos de coches."
+  },
+  {
+    "category": "Computación",
+    "description": "Preguntas relacionadas con computación y eventos de computación."
+  },
+  {
+    "category": "Juegos",
+    "description": "Preguntas relacionadas con juegos, ultimos lanzamientos y tipos de juegos."
+  },
+  {
+    "category": "Cine",
+    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+  },
+  {
+    "category": "Historia",
+    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+  },
+  {
+    "category": "Ciencia",
+    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+  }
+]
